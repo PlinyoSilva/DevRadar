@@ -1,0 +1,8 @@
+{
+  "name": "DevRadar_Plinyo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PlinyoSilva/DevRadar.git",
+  "author": " Plinyo Silva <gerdesonp@hotmail.com>",
+  "license": "MIT"
+}
